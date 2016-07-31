@@ -1,0 +1,5 @@
+C:\Users\afl\Documents\Visual Studio 2015\Projects\CopyEmbeddedRecourse\CopyEmbeddedRecourse\bin\Debug\CopyEmbeddedRecourse.exe
+C:\Users\afl\Documents\Visual Studio 2015\Projects\CopyEmbeddedRecourse\CopyEmbeddedRecourse\bin\Debug\CopyEmbeddedRecourse.pdb
+C:\Users\afl\Documents\Visual Studio 2015\Projects\CopyEmbeddedRecourse\CopyEmbeddedRecourse\obj\Debug\CopyEmbeddedRecourse.exe
+C:\Users\afl\Documents\Visual Studio 2015\Projects\CopyEmbeddedRecourse\CopyEmbeddedRecourse\obj\Debug\CopyEmbeddedRecourse.pdb
+C:\Users\afl\Documents\Visual Studio 2015\Projects\CopyEmbeddedRecourse\CopyEmbeddedRecourse\obj\Debug\CopyEmbeddedRecourse.csprojResolveAssemblyReference.cache
